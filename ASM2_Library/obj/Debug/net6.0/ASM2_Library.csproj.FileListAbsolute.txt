@@ -1,0 +1,15 @@
+D:\1651\lap\ASM2_Library\ASM2_Library\bin\Debug\net6.0\ASM2_Library.exe
+D:\1651\lap\ASM2_Library\ASM2_Library\bin\Debug\net6.0\ASM2_Library.deps.json
+D:\1651\lap\ASM2_Library\ASM2_Library\bin\Debug\net6.0\ASM2_Library.runtimeconfig.json
+D:\1651\lap\ASM2_Library\ASM2_Library\bin\Debug\net6.0\ASM2_Library.dll
+D:\1651\lap\ASM2_Library\ASM2_Library\bin\Debug\net6.0\ASM2_Library.pdb
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ASM2_Library.csproj.AssemblyReference.cache
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ASM2_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ASM2_Library.AssemblyInfoInputs.cache
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ASM2_Library.AssemblyInfo.cs
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ASM2_Library.csproj.CoreCompileInputs.cache
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ASM2_Library.dll
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\refint\ASM2_Library.dll
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ASM2_Library.pdb
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ASM2_Library.genruntimeconfig.cache
+D:\1651\lap\ASM2_Library\ASM2_Library\obj\Debug\net6.0\ref\ASM2_Library.dll
